@@ -1,0 +1,1 @@
+Place a CSV called `mnist.csv` with MNIST data into this directory.
